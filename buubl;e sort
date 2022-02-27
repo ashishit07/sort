@@ -1,0 +1,31 @@
+// package second.py;
+
+// import javax.sound.sampled.SourceDataLine;
+
+// public class selectionsort {
+    
+//     static void selection(int arr[] ,int low, int high, int temp,int size){
+
+
+//         for(int i = 0; i<size;i++){
+//             for (int j =i+1;j<size;i++){
+
+//                 if(arr[i] < arr[j]) {
+//                     temp = arr[j];
+//                     arr[j] = arr[i];
+//                     arr[i] = temp;
+
+
+//                 }
+//             }
+//         }
+//     }   
+//     public static void main(String[] args) {
+//         int [] arr = {4,7,8,1,6,9,3};
+//         int size = arr.length;
+//     }
+//     for (i =0 ; i<size;i++){
+//         System.out.println(i);
+//     }
+    
+// }
